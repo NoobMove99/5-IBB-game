@@ -1,0 +1,37 @@
+H:\programeeren\Prog\Game prins\Game prins\bin\Debug\Game prins.exe.config
+C:\Users\Alec\Documents\programeeren\prog\Game prins\Game prins\bin\Debug\Game prins.exe.config
+C:\Users\Alec\Documents\programeeren\prog\Game prins\Game prins\bin\Debug\Game prins.exe
+C:\Users\Alec\Documents\programeeren\prog\Game prins\Game prins\bin\Debug\Game prins.pdb
+C:\Users\Alec\Documents\programeeren\prog\Game prins\Game prins\obj\Debug\Game prins.csprojResolveAssemblyReference.cache
+C:\Users\Alec\Documents\programeeren\prog\Game prins\Game prins\obj\Debug\Game prins.exe
+C:\Users\Alec\Documents\programeeren\prog\Game prins\Game prins\obj\Debug\Game prins.pdb
+C:\Users\Alec\Github\Game prins\Game prins\bin\Debug\Game prins.exe.config
+C:\Users\Alec\Github\Game prins\Game prins\obj\Debug\Game prins.exe
+C:\Users\Alec\Github\Game prins\Game prins\obj\Debug\Game prins.pdb
+C:\Users\Alec\Github\Game prins\Game prins\bin\Debug\Game prins.exe
+C:\Users\Alec\Github\Game prins\Game prins\bin\Debug\Game prins.pdb
+C:\Users\Alec\Github\Game prins\Game prins\obj\Debug\Game prins.csprojResolveAssemblyReference.cache
+D:\Game prins - Copy\bin\Debug\Game prins.exe.config
+D:\Game prins - Copy\obj\Debug\Game prins.exe
+D:\Game prins - Copy\obj\Debug\Game prins.pdb
+D:\Game prins - Copy\bin\Debug\Game prins.exe
+D:\Game prins - Copy\bin\Debug\Game prins.pdb
+D:\Game prins - Copy\obj\Debug\Game prins.csprojResolveAssemblyReference.cache
+E:\Game prins - Copy\bin\Debug\Game prins.exe.config
+E:\Game prins - Copy\obj\Debug\Game prins.exe
+E:\Game prins - Copy\obj\Debug\Game prins.pdb
+E:\Game prins - Copy\bin\Debug\Game prins.exe
+E:\Game prins - Copy\bin\Debug\Game prins.pdb
+E:\Game prins - Copy\obj\Debug\Game prins.csprojResolveAssemblyReference.cache
+G:\Game prins - Copy\bin\Debug\Game prins.exe.config
+G:\Game prins - Copy\obj\Debug\Game prins.exe
+G:\Game prins - Copy\obj\Debug\Game prins.pdb
+G:\Game prins - Copy\bin\Debug\Game prins.exe
+G:\Game prins - Copy\bin\Debug\Game prins.pdb
+G:\Game prins - Copy\obj\Debug\Game prins.csprojResolveAssemblyReference.cache
+C:\Users\Alec\Documents\school\game OOP\spelletje-OOP-master\Game prins - Copy\bin\Debug\Game prins.exe.config
+C:\Users\Alec\Documents\school\game OOP\spelletje-OOP-master\Game prins - Copy\bin\Debug\Game prins.exe
+C:\Users\Alec\Documents\school\game OOP\spelletje-OOP-master\Game prins - Copy\bin\Debug\Game prins.pdb
+C:\Users\Alec\Documents\school\game OOP\spelletje-OOP-master\Game prins - Copy\obj\Debug\Game prins.csprojResolveAssemblyReference.cache
+C:\Users\Alec\Documents\school\game OOP\spelletje-OOP-master\Game prins - Copy\obj\Debug\Game prins.exe
+C:\Users\Alec\Documents\school\game OOP\spelletje-OOP-master\Game prins - Copy\obj\Debug\Game prins.pdb

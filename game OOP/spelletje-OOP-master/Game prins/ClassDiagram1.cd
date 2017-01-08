@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game_prins.Hero">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAKAAgAAEAIAAAQAAAAAYAAIAAAAAAAAAAEgAACSA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_prins.Goblin">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAKAAAAAEBIAQAAAAAAAYAAAAAAAAAAQAAAAAAACA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Game_prins.weapons">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAkAAAAAIAABAAAAEAAAAAAIAA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game_prins.types">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAIAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
